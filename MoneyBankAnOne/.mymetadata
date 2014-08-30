@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="MoneyBankAnOne"
+  id="myeclipse.1397004855081"
+  context-root="/MoneyBankAnOne"
+  j2ee-spec="6.0"
+  archive="MoneyBankAnOne.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
