@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="XmlRpc"
+  id="myeclipse.1403075906015"
+  context-root="/XmlRpc"
+  j2ee-spec="5.0"
+  archive="XmlRpc.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
